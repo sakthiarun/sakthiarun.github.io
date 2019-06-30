@@ -1,6 +1,6 @@
 --
 title: "About"
-permalink: /about/
+permalink: https://sakthiarun.github.io/about/
 header:
   image: "/images/Sakthi2.jpg"
 --
