@@ -2,5 +2,5 @@
 title: "About"
 permalink: /about/
 header:
-#  image: "/images/torontofireworks.jpg"
+  image: "/images/torontofireworks.jpg"
 --
