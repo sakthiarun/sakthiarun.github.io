@@ -1,6 +1,6 @@
 --
 title: "About"
-permalink: /pages/about/
+permalink: /_pages/about/
 header:
   image: "/images/Sakthi2.jpg"
 --
